@@ -1,0 +1,19 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2013.11.24"]
+[Round "?"]
+[White "bradleyhewitt"]
+[Black "ZirconCode"]
+[Result "1-0"]
+[WhiteElo "1075E"]
+[BlackElo "1468"]
+[ECO "C40"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 f6 3. Nc3 c6 4. Bc4 d6 5. Bxg8 Rxg8 6. d3 Bg4 7. Be3 d5 8. h3 
+d4 9. Nb1 dxe3 10. fxe3 Be6 11. Nc3 Bb4 12. Qd2 c5 13. a3 Ba5 14. O-O-O Nc6 
+15. Ng1 Kf7 16. Nge2 b5 17. Qe1 b4 18. axb4 Bxb4 19. Qh4 h6 20. Rhf1 Qa5 21. 
+Kb1 Ba3 22. b3 c4 23. dxc4 Bc5 24. Nd5 Nb4 25. Rxf6+ gxf6 26. Qxf6+ Ke8 27. 
+Qxe6+ Kf8 28. Rf1+ Kg7 29. Rf7+ Kh8 30. Qf6+ Rg7 31. Qxg7# {ZirconCode 
+checkmated} 1-0
+

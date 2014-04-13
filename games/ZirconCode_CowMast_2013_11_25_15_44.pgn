@@ -1,0 +1,18 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2013.11.25"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "CowMast"]
+[Result "0-1"]
+[WhiteElo "1446"]
+[BlackElo "1537"]
+[ECO "B22"]
+[TimeControl "900"]
+
+1. e4 c5 2. c3 Nc6 3. d4 d5 4. f3 e6 5. Bd3 c4 6. Be2 dxe4 7. fxe4 b5 8. e5 
+Nge7 9. Bg5 h6 10. Bh4 Qa5 11. Nd2 Nd5 12. Bf3 b4 13. Ne2 bxc3 14. Nxc3 Nxd4 
+15. O-O Bb7 16. Nxc4 Qb4 17. Qxd4 Bc5 18. Rad1 Qxc4 19. Qxc5 Qxc5+ 20. Bf2 
+Qa5 21. Ne4 O-O 22. Nd6 Ba6 23. Rfe1 Qxa2 24. Bxd5 exd5 25. Rxd5 Qxd5 
+{ZirconCode resigns} 0-1
+

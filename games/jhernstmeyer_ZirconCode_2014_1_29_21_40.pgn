@@ -1,0 +1,19 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.01.29"]
+[Round "?"]
+[White "jhernstmeyer"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1419"]
+[BlackElo "1401"]
+[ECO "C40"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 f6 3. d4 d5 4. dxe5 fxe5 5. Qxd5 Nc6 6. Bb5 Qf6 7. Bxc6+ bxc6 
+8. Qxe5+ Be6 9. Qxf6 Nxf6 10. Nd4 Bd7 11. Nc3 Bc5 12. Be3 O-O 13. O-O Rab8 
+14. Na4 Bb6 15. Nxb6 axb6 16. b3 c5 17. Ne2 Nxe4 18. Bf4 Rbc8 19. f3 Nd6 20. 
+c4 Rce8 21. Rfe1 Nf5 22. g3 Bc6 23. Rf1 Rxe2 24. Bxc7 Nd4 25. f4 Nf3+ 26. 
+Rxf3 Bxf3 27. Kf1 Rxh2 28. Bxb6 Rc8 29. Kg1 Rb2 30. Rf1 Bg4 31. a4 Rxb3 32. 
+Re1 Rxb6 {jhernstmeyer resigns} 0-1
+

@@ -1,0 +1,18 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.01.29"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "thelonio"]
+[Result "0-1"]
+[WhiteElo "1412"]
+[BlackElo "1487"]
+[ECO "C20"]
+[TimeControl "900"]
+
+1. e4 e5 2. f3 Nc6 3. Bc4 Nf6 4. Ne2 Bc5 5. c3 O-O 6. d4 exd4 7. Nxd4 Re8 8. 
+O-O Ne5 9. Bb3 d6 10. Be3 Bxd4 11. cxd4 Ng6 12. Qc2 c5 13. dxc5 dxc5 14. Qxc5 
+Re5 15. Qc4 Be6 16. Qd4 Qc7 17. Bxe6 fxe6 18. Nc3 Rd8 19. Qxa7 Rh5 20. h3 Qg3 
+21. Bf2 Qg5 22. Qb6 Rf8 23. Qxe6+ Kh8 24. Nd5 Nxd5 25. exd5 Nf4 26. Qg4 Qxg4 
+27. hxg4 Ne2# {ZirconCode checkmated} 0-1
+
