@@ -1,0 +1,19 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.17"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "anjay"]
+[Result "1-0"]
+[WhiteElo "1435"]
+[BlackElo "1381"]
+[ECO "C55"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. Bb3 dxe4 6. dxe4 Qxd1+ 7. Kxd1 Bg4 
+8. Nd2 O-O-O 9. Bxf7 Nxe4 10. Ke1 Bxf3 11. Nxf3 Bc5 12. Be3 Bxe3 13. fxe3 Nb4 
+14. Be6+ Kb8 15. Bb3 a5 16. Nxe5 Rhe8 17. Nf7 Rc8 18. a3 Nc5 19. axb4 Rxe3+ 
+20. Kd2 Nxb3+ 21. cxb3 Rxb3 22. Kc2 a4 23. Rxa4 Re3 24. Rd1 b6 25. Rd8 Re2+ 
+26. Kc3 Re3+ 27. Kd2 Rxd8+ 28. Nxd8 Re8 29. Nc6+ Kb7 30. b5 Rf8 31. Ra7+ Kc8 
+32. Ra8+ {anjay resigns} 1-0
+
