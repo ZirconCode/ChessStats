@@ -1,4 +1,10 @@
 
+require 'rubygems'
+require 'bundler/setup' 
+
+require 'nokogiri'
+#require 'open-uri'
+
 # Config...
 puzzle_profile = 'http://chess.emrald.net/tProfile.php?TacID=70056'
 chess_games = '/home/simon/.wine/drive_c/users/simon/My Documents/BabasChess/Games/'
@@ -9,8 +15,6 @@ storage_profile_path = 'puzzles/'
 
 desc 'Grab chess.emrald Data'
 task :update_puzzles do |t|
-	require 'nokogiri'
-	require 'open-uri'
 	doc = Nokogiri::HTML(open(puzzle_profile))
 	File.open(storage_profile_path+Time.now.to_i.to_s, "w") do |f|
 		f.write doc.xpath('//td[@class=\'content\']')
