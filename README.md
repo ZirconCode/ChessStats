@@ -9,7 +9,7 @@ If you absolutely must have your own:
 
  1. `git clone https://github.com/ZirconCode/ChessStats.git`
  2. Delete Everything in the games & puzzles folders.
- 3. Edit the two variables at beginning of the rakefile.
+ 3. Edit Env in config.rb
  4. `rake -T `
  5. `rake update`
 
