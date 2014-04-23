@@ -1,5 +1,6 @@
 
 require_relative 'config.rb'
+require_relative 'analyse.rb'
 
 require 'nokogiri'
 require 'open-uri'
@@ -28,6 +29,15 @@ end
 
 desc "Interpret Data"
 task :examine do |t|
-
+	examine
 end
 
+desc "Run StockFish on Games"
+task :stockfish do |t|
+	runStockfish
+end
+
+desc "Create Anki Deck from StockFish Suggestions"
+task :anki do |t|
+	# TODO
+end

@@ -12,3 +12,5 @@ Env[:player_name] = "ZirconCode"
 Env[:storage_games_path] = 'games/'
 Env[:storage_profile_path] = 'puzzles/'
 
+Env[:engine_path] = 'engine/stockfish'
+

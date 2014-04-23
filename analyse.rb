@@ -19,14 +19,14 @@ def examine
 	rating = []
 
 	files = FileList.new()
-	files.include(chess_games+"*")
+	files.include(Env[:chess_games]+"*")
 	files.each do |f|
 		g = loadGame(f)
 
 		r = ''
-		if(g['Black']=='ZirconCode')
+		if(g['Black']==Env[:player_name])
 			r = g['BlackElo']
-		elsif(g['White']=='ZirconCode')
+		elsif(g['White']==Env[:player_name])
 			r = g['WhiteElo']
 		end
 
@@ -39,4 +39,14 @@ def examine
 
 	# TODO -> d3
 	puts rating
+end
+
+def runStockfish
+	uci = Uci.new( :engine_path => Env[:engine_path] )
+	while !uci.ready? do
+	   puts "Engine isn't ready yet, sleeping..."
+	   sleep(1)
+	end
+	puts "Engine is ready ^_^"
+	# TODO
 end
