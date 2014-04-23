@@ -4,9 +4,11 @@ GEM
     mini_portile (0.5.3)
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
+    uci (0.0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   nokogiri
+  uci
