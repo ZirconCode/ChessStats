@@ -28,6 +28,10 @@ def loadGame(path)
 	game
 end
 
+def shortToLong(shorthand,board)
+
+end
+
 def examine
 	rating = []
 
@@ -67,6 +71,8 @@ def runStockfish
 	interesting = []
 	g['moves'].each do |m|
 		puts m
+		cmd = shortToLong(m)
+		puts cmd
 		uci.move_piece(m) # TODO doesn't take shorthand
 	end
 
