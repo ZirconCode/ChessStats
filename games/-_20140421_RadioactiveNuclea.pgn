@@ -1,0 +1,22 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.21"]
+[Round "?"]
+[White "RadioactiveNuclea"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1283"]
+[BlackElo "1455"]
+[ECO "A00"]
+[TimeControl "900"]
+
+1. d3 d5 2. Nf3 Nc6 3. g3 e5 4. Bg2 Bb4+ 5. Nbd2 Bg4 6. c3 Bc5 7. c4 d4 8. 
+Qb3 b6 9. O-O Qf6 10. Ne4 Qf5 {complicated position... closed} 11. Qb5 Ne7 
+12. Nxc5 bxc5 13. Qxc5 O-O 14. b4 e4 {shouldve used r} 15. dxe4 {rook...} 
+Qxe4 16. Ne5 Qxe5 17. Qxe5 Nxe5 18. Bxa8 Rxa8 19. Bf4 f6 20. f3 Bh3 {giving 
+him free moves ...} 21. Rfd1 g5 22. Rxd4 gxf4 23. Rxf4 Kf7 24. a4 N7g6 25. 
+Rd4 Rb8 26. b5 Be6 27. c5 c6 28. f4 Ng4 29. e4 f5 30. exf5 Bxf5 31. Rb4 cxb5 
+32. axb5 Ne7 33. Rxa7 Ne3 34. b6 Nd5 35. Rb3 Ke6 36. h3 Nc6 {playing 
+horribly} 37. Ra1 Bxh3 38. Re1+ Kf5 39. Rd1 Ne3 40. Rd6 Na5 
+{RadioactiveNuclea forfeits on time} 0-1
+

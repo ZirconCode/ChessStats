@@ -1,0 +1,17 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.01.16"]
+[Round "?"]
+[White "phonny"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1405P"]
+[BlackElo "1393"]
+[ECO "A40"]
+[TimeControl "900"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 e6 4. e3 b6 5. Nc3 Bb4 6. Qa4 Qd7 7. Ne5 Nxe5 8. 
+Qxd7+ Nxd7 9. c5 Ne7 10. Bd2 bxc5 11. Nb5 Bxd2+ 12. Kxd2 O-O 13. Rc1 c4 14. 
+b3 a6 15. bxc4 axb5 16. cxd5 Nxd5 17. Rxc7 Rxa2+ 18. Kd3 Rxf2 19. Ra7 Nb4+ 
+20. Ke4 f5# {phonny checkmated} 0-1
+

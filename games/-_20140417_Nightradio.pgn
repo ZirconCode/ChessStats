@@ -1,0 +1,35 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.17"]
+[Round "?"]
+[White "Nightradio"]
+[Black "ZirconCode"]
+[Result "1-0"]
+[WhiteElo "1307"]
+[BlackElo "1440"]
+[ECO "C60"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Bxc6 Nxc6 5. O-O Bc5 6. d3 d6 7. Nc3 Bg4 
+8. Nd5 Nd4 9. Qd2 Nxf3+ 10. gxf3 Bxf3 11. Qa5 Qg5+ 12. Bxg5 b6 13. Qb5+ 
+{ZirconCode resigns} 1-0
+
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.17"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "Nightradio"]
+[Result "1-0"]
+[WhiteElo "1429"]
+[BlackElo "1326"]
+[ECO "C50"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. Nh4 d6 5. Qh5+ g6 6. Nxg6 Bg4 7. Qh4 Nh6 8. 
+Nxh8 Bg7 9. h3 Bxh8 10. hxg4 Nd4 11. Kd1 Qe7 12. Qxh6 Kd7 13. Qxh7 Re8 14. 
+Qxe7+ Rxe7 15. Rxh8 c6 16. c3 Ne6 17. Bxe6+ Kxe6 18. d3 c5 19. Be3 b6 20. c4 
+a5 21. Rb8 Rh7 22. Kc2 Rh1 23. Rxb6 Rf1 24. Rb5 a4 25. Ra5 Re1 26. Rxa4 Re2+ 
+27. Kc3 d5 28. cxd5+ Kd6 29. Ra6+ Kc7 30. Nd2 Kb7 31. Rxf6 c4 32. Nxc4 Kb8 
+33. Rh1 Ka8 34. Rh7 Re1 35. Rf8# {Nightradio checkmated} 1-0
+

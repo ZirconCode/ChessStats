@@ -1,0 +1,15 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.17"]
+[Round "?"]
+[White "vinse"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1196P"]
+[BlackElo "1430"]
+[ECO "C40"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 Bc5 3. c3 d5 4. d4 dxe4 5. Nxe5 Bb6 6. Qe2 f5 {vinse forfeits 
+on time} 0-1
+

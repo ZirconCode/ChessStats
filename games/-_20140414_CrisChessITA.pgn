@@ -1,0 +1,18 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.14"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "CrisChessITA"]
+[Result "1-0"]
+[WhiteElo "1420"]
+[BlackElo "1443"]
+[ECO "C20"]
+[TimeControl "900"]
+
+1. e4 e5 2. c3 a6 3. d4 Qh4 4. Nd2 d6 5. Ngf3 Qf6 6. Bc4 Be6 7. d5 Bg4 8. O-O 
+Ne7 9. Qa4+ Bd7 10. Qb3 b5 11. Be2 Ng6 12. a4 bxa4 13. Qb7 Bb5 14. Bxb5+ axb5 
+15. Qxa8 Qd8 16. c4 Be7 17. cxb5 O-O 18. Qxa4 Nd7 19. g3 Nb6 20. Qc2 h6 21. 
+Nc4 Qb8 22. Nxb6 cxb6 23. Be3 Rc8 24. Qa4 Nf8 25. Rfc1 Nd7 26. Rxc8+ Qxc8 27. 
+Qa6 {CrisChessITA resigns} 1-0
+

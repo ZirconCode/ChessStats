@@ -1,0 +1,20 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.02.15"]
+[Round "?"]
+[White "stlan"]
+[Black "ZirconCode"]
+[Result "1-0"]
+[WhiteElo "1240"]
+[BlackElo "1440"]
+[ECO "C23"]
+[TimeControl "900"]
+
+1. e4 e5 2. Bc4 c6 3. Nf3 d5 4. exd5 cxd5 5. Bb5+ Nc6 6. O-O Bg4 7. Qe1 f6 8. 
+d4 e4 9. Nfd2 Bd6 10. Nb3 Qb6 11. f3 Bf5 12. a4 Ne7 13. fxe4 Bxe4 14. Nc3 
+Bxc2 15. Nxd5 Qd8 16. Nd2 O-O 17. Qe3 Nxd5 18. Qe6+ Kh8 19. Qxd5 Rc8 20. Nc4 
+Bb8 21. Qc5 Qxd4+ 22. Qxd4 Nxd4 23. Be3 Nxb5 24. axb5 Bd3 25. Rf3 Bxc4 26. 
+Kf2 Bxb5 27. Rf5 Rc2+ 28. Kf3 Be2+ 29. Ke4 Rxb2 30. Rd5 Re8+ 31. Kd4 Be5+ 32. 
+Kc5 Rc2+ 33. Kb4 Bxa1 34. Bxa7 Re4+ 35. Bd4 Bxd4 36. Rd8+ {ZirconCode 
+resigns} 1-0
+

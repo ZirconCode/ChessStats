@@ -1,0 +1,23 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.14"]
+[Round "?"]
+[White "ptkumar"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1448"]
+[BlackElo "1410"]
+[ECO "C21"]
+[TimeControl "900"]
+
+1. e4 e5 2. d4 exd4 3. c3 Nc6 4. cxd4 Bb4+ 5. Bd2 d6 6. Bxb4 Nxb4 7. Nf3 Bg4 
+8. Be2 Qe7 9. a3 Nc6 10. Qd3 Nf6 11. Nbd2 O-O-O 12. O-O h5 13. Qb3 Nxe4 14. 
+Nxe4 Qxe4 15. Rfe1 Nxd4 16. Nxd4 Qxd4 17. Bxg4+ Qxg4 18. Qxf7 Rdf8 19. Qe6+ 
+Qxe6 20. Rxe6 Kd7 21. Rg6 Rf7 22. Rc1 h4 23. h3 Re8 24. b4 b5 25. Rd1 Re6 26. 
+Rxe6 Kxe6 27. Rd4 g5 28. g3 hxg3 29. fxg3 Ke5 30. Rd1 d5 31. Re1+ Kd6 32. Kg2 
+d4 33. h4 gxh4 34. gxh4 c5 35. bxc5+ Kxc5 36. Re5+ Kc4 37. h5 d3 38. Re6 d2 
+39. Rc6+ Kd3 40. Rd6+ Ke2 41. Re6+ Kd1 42. h6 Kc2 43. Rc6+ Kb3 44. Rd6 Kc2 
+45. Rc6+ Kb3 46. Rd6 Kxa3 47. Rxd2 Rh7 48. Rd5 b4 49. Rd6 b3 50. Ra6+ Kb4 51. 
+Re6 b2 52. Re1 Rxh6 53. Rb1 Kc3 54. Kf2 Kc2 55. Rxb2+ Kxb2 56. Ke3 a5 57. Kd3 
+a4 {ptkumar resigns} 0-1
+

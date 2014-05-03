@@ -1,0 +1,24 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.02.13"]
+[Round "?"]
+[White "KidKingKiller"]
+[Black "ZirconCode"]
+[Result "0-1"]
+[WhiteElo "1662"]
+[BlackElo "1413"]
+[ECO "A07"]
+[TimeControl "900"]
+
+1. Nf3 d5 2. g3 f6 3. Bg2 e5 4. O-O Bd6 5. b3 Nc6 6. Bb2 Bg4 7. d3 Nge7 8. 
+Nbd2 Qd7 9. e4 d4 10. c3 Bc5 11. Nc4 b5 12. Ncd2 O-O 13. Qc2 b4 14. cxd4 Bxd4 
+15. Nxd4 Nxd4 16. Qc4+ Be6 17. Qc1 Ne2+ 18. Kh1 Nxc1 19. Raxc1 Rac8 20. Rfd1 
+Bg4 21. f3 Bh3 22. g4 Bxg2+ 23. Kxg2 a5 24. Kg3 Ng6 25. Nc4 Nf4 26. Kf2 Nxd3+ 
+27. Ke3 Nxb2 28. Rxd7 Nxc4+ 29. Rxc4 c5 30. Rd5 Kf7 31. Rdxc5 Rxc5 32. Rxc5 
+Ra8 33. f4 exf4+ 34. Kxf4 a4 35. Rc7+ Kg6 36. h4 axb3 37. axb3 Ra3 38. h5+ 
+Kh6 39. Rc6 g5+ 40. Kf5 Rxb3 41. Rxf6+ Kg7 42. e5 Rf3+ 43. Ke6 Rxf6+ 44. 
+exf6+ Kf8 45. Kf5 b3 46. Kxg5 b2 47. Kh6 b1=Q 48. g5 Qb7 49. g6 hxg6 50. hxg6 
+Qh1+ 51. Kg5 Qg2+ 52. Kh6 Qh2+ 53. Kg5 Qg2+ 54. Kf5 Qf2+ 55. Ke6 Qb6+ 56. Kf5 
+Qc5+ 57. Ke6 Qc6+ 58. Kf5 Qc5+ 59. Kf4 Qd6+ 60. Kg5 Qe5+ 61. Kh6 Qxf6 62. Kh7 
+Qg7# {KidKingKiller checkmated} 0-1
+

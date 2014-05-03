@@ -1,0 +1,19 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.04.13"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "yvonkrob"]
+[Result "0-1"]
+[WhiteElo "1420"]
+[BlackElo "1636"]
+[ECO "C24"]
+[TimeControl "900"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 h6 4. f4 d6 5. f5 a6 6. Bd2 Nc6 7. Nc3 Be7 8. Nf3 
+Na5 9. Bd5 c6 10. Bb3 Nxb3 11. axb3 Qb6 12. Na4 Qc7 13. Qe2 b5 14. Nc3 b4 15. 
+Na4 Rb8 16. O-O c5 17. c3 bxc3 18. Nxc3 Rxb3 19. Be3 O-O 20. Qc2 Rb8 21. Bd2 
+Qa7 22. Be3 Ng4 23. Rfe1 Nxe3 24. Rxe3 c4 25. Qf2 Rxb2 26. Qxb2 Qxe3+ 27. Kh1 
+cxd3 28. Nd5 Qa7 29. Ne1 Bf6 30. Nxd3 Qa8 31. Qb6 Bxf5 32. Rxa6 Qd8 33. exf5 
+Qc8 34. Nxf6+ gxf6 35. Qxd6 Qxf5 36. Nc5 Qf1# {ZirconCode checkmated} 0-1
+

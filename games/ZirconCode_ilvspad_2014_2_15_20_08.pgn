@@ -1,0 +1,18 @@
+[Event "rated standard match"]
+[Site "Free Internet Chess Server"]
+[Date "2014.02.15"]
+[Round "?"]
+[White "ZirconCode"]
+[Black "ilvspad"]
+[Result "1-0"]
+[WhiteElo "1430"]
+[BlackElo "1399"]
+[ECO "B01"]
+[TimeControl "900"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 Be6 4. Bc4 c6 5. d3 cxd5 6. Bxd5 Bxd5 7. exd5 Qxd5 
+8. Nf3 Nd7 9. Qe2 Ngf6 10. O-O e6 11. Bd2 Be7 12. Rac1 O-O 13. c4 Qc6 14. Bg5 
+h6 15. Bxf6 Bxf6 16. Rfe1 Nc5 17. b3 b5 18. cxb5 Qxb5 19. Red1 a6 20. Rc4 
+Rac8 21. Nxd4 Bxd4 22. Rxd4 Rfd8 23. Rc4 Rd5 24. d4 Nxb3 25. axb3 Rxc4 26. 
+bxc4 Qxc4 27. Qxc4 {ilvspad resigns} 1-0
+

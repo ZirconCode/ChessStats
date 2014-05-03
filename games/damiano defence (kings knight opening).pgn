@@ -1,0 +1,16 @@
+[Event "rated blitz match"]
+[Site "Free Internet Chess Server"]
+[Date "????.??.??"]
+[Round "?"]
+[White "cuediquila"]
+[Black "ZirconCode"]
+[Result "*"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[ECO "C40"]
+[TimeControl "900"]
+
+1. e4 e5 2. Nf3 f6 3. Bc4 (3. Nxe5 fxe5 (3. ... Qe7 ) 4. Qh5+ g6 (4. ... Ke7 
+5. Qxe5+ Kf7 6. Bc4+ d5 7. Bxd5+ Kg6 8. h4 h5 9. Bxb7 Bxb7 10. Qf5+ Kh6 11. 
+d4+ g5 12. Qxg5+ ) 5. Qxe5+ ) d5 (3. ... d6 4. d4 Nc6 5. c3 ) *
+
